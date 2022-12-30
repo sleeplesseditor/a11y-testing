@@ -137,7 +137,7 @@ function App() {
             </Select>
           </FormControl>
         </Stack>
-        <Button colorScheme="brand">Sign Up for Mailing List</Button>
+        <Button colorScheme="brand" bg="black" color="white">Sign Up for Mailing List</Button>
       </Box>
     </Stack>
   );
